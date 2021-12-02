@@ -25,7 +25,7 @@ const Template = (args) => (
     title: 'Meet your Instructor',
     positionName: " Founder and CEO",
     companyName: " Startup Commons",
-    cardColor:'linear-gradient(180deg, #3596BF 0%, #0E5E81 100%)',
+    cardColor:'linear-gradient(180deg, #00000 0%, #0E5E81 100%)',
     intervalMS: 6100,
     showArrows:true,
 
